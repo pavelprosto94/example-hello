@@ -104,4 +104,4 @@ In the terminal, go to our directory with the **example-hello** project and ente
 	
 The project will compile and run on our phone:
 
-![ubuntu_toch_python2.jpg](http://dtc1.ru/_resources/5d84a708d8ed49ab933d4c840456b00b.jpg)
+![ubuntu_toch_python2.jpg](_resources/5d84a708d8ed49ab933d4c840456b00b.jpg)
